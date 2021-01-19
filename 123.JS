@@ -67,6 +67,3 @@ function wait(ms) {
 
     await browser.close()
 })()
-
-// https://github.com/puppeteer/puppeteer/issues/2482
-// https://github.com/puppeteer/puppeteer/issues/2569
